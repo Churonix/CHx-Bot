@@ -1,0 +1,19 @@
+{
+  "name": "churonix-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node index.js debug",
+    "start": "node main.js"
+  },
+  "author": "Churonix",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.15",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.4.5"
+  }
+}
